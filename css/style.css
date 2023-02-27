@@ -1,11 +1,9 @@
 body {
 	overflow: auto;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size:fill;
-	background-image: url(../img/persona5.jpg);
-	font-family: 'Kanit', sans-serif;
+	font-family: 'Century Gothic', sans-serif;
+	background-image: url('https://blogger.googleusercontent.com/img/a/AVvXsEjJd02ohFF7Yx3uACSfS9nx_1_2blK8lLYuRlwGP8xB-xE5eR7spjnQyodX60eDibKXsaluiecArJ1N3IFVjTyBh8bCg9O47TTMs1UzEhCWdZYijkd1N7-4kF8tTIvKSNAZRNc-6CTqXH7j6svVUYApkWm_B3r-smpENNcL9_ePsuxWC8PK4E95Aepz');
 }
+
 
 #photoBooth {
 	margin-top: .2em;
