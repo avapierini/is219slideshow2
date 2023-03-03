@@ -1,78 +1,65 @@
 {
     "images": [
         {
-            "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbPtPYL-5yyqUBqP78VWPdBduJ_ZvNLw4OBed7P6Ob3yM_IgA2cTEiZQU7WyzjxFK65em5DBgEeoamiucV1d0TB5LUj1bnuKXJcXQwKXZtLgLYpI754vxUsba3xz2IpOFThZ2xAInjXgo5EIHBzD2Ce4wpCYInIWG8_vZMSgCJO26kYSzPQ1V13Ni6/s320/australia.jpg",
-            "imgLocation": "Australia",
-            "description": "Lach and Gorge",
-            "date": "01/01/2016"
+            "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWg9ROYlqR02bWh5QA8rgFd0_LmOqkKwlDxvo2P2ySwwKAL07EfBlIIjwuok7U3WjtHoPbzXrr_NY59oPDY1DKFIMKT22A0SZrWOaSXEY6sa4tdPNA8XyG6CHlpDoKe6aTZrbWAxVR13IG50HldgZvkgxJjPKQJOC-H6usMXWJ1JzjuuPtnpD8yExl/s320/Screenshot%202023-03-03%202.51.55%20PM.png",
+            "imgLocation": "Freehold",
+            "description": "Me and my family!",
+            "date": "Summer of 2020"
         },
         {
-            "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKXfUGAHiCAaxUEPmyCjQ3csdRmF4tG12a1N5TKx44VBteAW0sma15Uq62hC-QBxF6M6pEmREa0Wttw8gmm0EU7z0NutiwzhgB9PZvmMrdcz7EI0jxymdKHzd4KjJ8-DZyaiVwLBX0DkS5X4jOmILhWSwxX_aeXIETF8gS7wwqSRz1d3suw8BFuSj9/s320/austria.jpg",
-            "imgLocation": "Austria",
-            "description": "Austrian Chapel",
-            "date": "01/02/2016"
+            "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiTuNVjwn97fivlqfuA2zdVmXfNVcN1Wvbi5IWvWcx0gvHVxj6YUJEDhTrP3znsHoGWD7kUGgTm1HxSNKR4Ev5dttzVI27o8j9b__q_XukE4dc7KnI3TTvlJ1akFItF-TJKKQt7knpAnhlmim-cEmyh6Cu7ffFMxr0Hhr4P0JCDvzNpvxnbwrkVNb-/s320/Screenshot%202023-03-03%202.31.44%20PM.png",
+            "imgLocation": "Milo",
+            "description": "Got my cat named milo!",
+            "date": "october of 2020"
         },
         {
-            "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQnfgn2RUDxkpLKY7opHZqq1TsLJcbfp4JeKRGXP778QZmbC1Hc4zNv-nuPcSlAdMIhRpEdsv0LhzZtEfN-B3epoiYxjJVXYdYWtwe5Yr4ENjAxca1lgs72WbA6fh8Kc0xjYRuPm2AF0UoBX6HNRlkhMRqhhNzHIX3ilre1joMoMX6P8EtH69-iRKl/s320/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "istanbul",
-            "date": "01/13/2016"
+            "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhni2HuIrEuJ-H1sxUxLLNojTpdTIURxD1X7jnJNO30bP19jH9sDjjDQWzyLjcJWlFbxz0naa9ODPeY2_rzYUDvDPHrcbvL05XS6hIFgRzjrIngAtRCeV2nCab-uD6V4voCUIZQjCvLyyZ1NWi0wfVFtO2VOHWjVUovK7brvyClI26cqWOtLVstjJvo/s320/Screenshot%202023-03-03%202.39.27%20PM.png",
+            "imgLocation": "Willow",
+            "description": "Got my dog named Willow",
+            "date": "Winter of 2020"
         },
         {
-            "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-P5Es601ObggxbX5XeeXCYWxuDbiiPnCPcZ6uzdNCw7TUNY_fCT5hNKaW6yfPVaJ4x0StNhxNA9mQLUY7hVonkmKn0u6Fj77IrAHKT9K2MPIAK-WvLdqU3d-BehY5Lif3uomk8l43p87YRaCIZ9NGaTTDdkJWe_ggfVzFepUrodajPopX1RoYcAHY/s320/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
+            "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5qzTPQchfa5f-OCsB2kI87RiZ24woGOg9hX7jxQLoK08Et8PJ6AqJTx7K0x5gRckgMdocTuKihVGyk1uj1APA4Njm92uQF6kSXJmnNKq1EAAJ7uv267I-gCkR1mBwVlWFMc9E2Grk3K1iYuNoQh4sVuNhaHgo5SONDWK62bO7BTiMAGOuQ5fs_cMd/s320/Screenshot%202023-03-03%202.30.38%20PM.png",
+            "imgLocation": "Marco Island",
+            "description": "Went on a trip to Florida for my sweet 16!",
+            "date": "Summer of 2021"
         },
     {
-        "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdDkyPKTvDOOCsURwznx3eezZjUrvAtcHp4xn79XMB7_3z4va27eyjGO-QETP23k7qgX6PWFGf2GGLCVQFKs-TpA7dGQQJfXkTuTdMvFx5D7qVhUpKg_aaCSg8LMvg39LjQmRqBLwLxDwkO0-jqERtPsoxE8-ko-35McYnZS82bWVZfhHvWKsL3am-/s320/switzerland.jpg",
-        "imgLocation": "Switzerland",
-        "description": "Lake castle",
-        "date": "01/11/2016"
+        "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitC3aTPVl5r3aF2PECnu11HMA0FcCBFXHGYts2-eXUppyBd1GFQwqqq2oHq3gwYJtb7V18HdS3Ib-B2damiYqrP5nsZMm4D8b39cChgxrDWniNxFmDljRWN7VLLOC4F0439N63VLtbfNLh2TC1WK-Dz1aDx-rfYLGVigX_ayhAV-0Z19Zyfcq5jN30/s320/Screenshot%202023-03-03%202.30.19%20PM.png",
+        "imgLocation": "Freehold",
+        "description": "FTHS junior prom 2022",
+        "date": "Spring of 2022"
         },  {
-            "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWE34_eqUUbR7dMvgGpv8I__ADyXlvj4lLZSyiXKeSPCSs2FCc846pakBN9KjNpEPVqHhCxJIqrcYgOGgpXpqpKvBhVhAIf4hSKItWSYAu7Ww3BrgpGQnK7SF6-YWq9Slw4Rcckci3HYbU0dK8DbpcY_rrOmtpZDDcBOqa2yLgvpoAOZz4auTv_ukf/s320/greece.jpg",
-            "imgLocation": "Greece",
-            "description": "Greek coastline",
-            "date": "01/04/2016"
+            "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipGTrd5oWucTmn1V-2oPK4dTpMDPspsJ5pXApR0SA5EzKp1WTfAPLtmFvK9Ko8rBxUu4elrLZbBg1BOdzS-qTSZJTKOr86V6n3P0OPXTvRH3wIgfsIbXdl8076K-uLT9GlgxowU2bWD6S1Lqyjr6QLTAg3yVSYwrK2L0cW-3yWBJJlUK8XwgxXslB5/s320/Screenshot%202023-03-03%202.31.33%20PM.png",
+            "imgLocation": "Wall",
+            "description": "WALL HS senior prom 2022",
+            "date": "Spring of 2022"
       
         },
         {
-           "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMCOX1ylQt5dMHxUH9n3fuUJaynfa35BnL1D71eBJ0wDW3w6BdYEBNYfYNnlRqZgZbM1u01NQeMsFs6hAf5ZxiGQvqh9t3o4AiZNP1hrOhBEZ-HD5xnTbiFbsMm4EDAvzUBS0otMjIG6eaOjBBb2bKpDOK0LxAM_aWuTa0N-89wKlEODJKZpBPVgGQ/s320/hungary.jpg",
-            "imgLocation": "Hungary",
-            "description": "Budapest skyline",
-            "date": "01/05/2016"
+           "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi287SM1ZhqNnVqa_luWvJaDAH_j71nvMANesxM9FQ-Ffh19I-lCbhNAILV6e1oShzX5vzazH9a2a7Xn2wll6LfynELZo61HEOxZc7g3owc8gtShB1M5TGNQz-IJekQG3mG-XB-R24GF7LYyn1zvvDSLSbqmRlj5yM7CzgO9hqYWIybg8GFMbDN87RH/s320/Screenshot%202023-03-03%202.32.02%20PM.png",
+            "imgLocation": "Rutgers",
+            "description": "My sister Izzy is off to rutgers!",
+            "date": "Fall of 2022"
         },
-        {   "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikw4IK_d6RNKW4y4vjVAfxq1LtKzOXH2ns3zsXVc7DrzFzJ0k2U0yc60O_abUgwYxLXSICHqxTAblVjTErwWpQY0CNTZcqREmt2Jy6StHreDzgW9WBMsBWlDbNp00dB3ZWQQTTW3vownv9cSFyBNScZRqxSbl4RzdMJRZLlhMzhQLPOTVw76OR2xtj/s320/india.jpg",
-            "imgLocation": "India",
-            "description": "Taj Mahal",
-            "date": "01/06/2016"
+        {   "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTMzuk9c363ribW9-JiaH6Pj17BmYUHfZGvqT_IxWsniePskrJkPiOfJHG6NP029Og0T8eI0Ws3qGDFe9K4QzimuK5TTOb4v-c5jzUaqfC0u528X_-45Hp0-jOzw1nuah1DGGDnN38ddgwMlzw8rpVEbLhtNMP5f7K3g6Qz9ZdKWzVI8Qy1_MFu5Lx/s320/Screenshot_20221101_111737.png",
+            "imgLocation": "FTHS ",
+            "description": "I start my senior year",
+            "date": "Fall of 2022"
           
         },
         {
-             "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioQtGQBEpH96EdsLs3ZaIiDPErik87o4Gi_pzk_2ppA55h8WNSyaZHsyeTSRLc3SurQYXDnWamTJixvVLU3icVYUaSNTStxHxPPbw7ZWp87k5oQhaZwT7Msne3PU7MQhRTgErVazSE02XB4GAiFFH-4Rjh5vIqtxv6jolHDPYwhIAt7S6QDFR7J9_6/s320/italy.jpg",
-            "imgLocation": "Italy",
-            "description": "Venice",
-            "date": "01/07/2016" 
+             "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi59qhJbEbCnfPKV4OE7y_0aHyTp1xi7oE_IupuBGwq0CNsseQ7hPJsDcYQgpoq_P-m4mQ7uP4O7vvkn6liTR1JBM1E3gVseClNyYwqu8KeKIl09wmt4gP4KpHHXwKgSJjEMRgNmkAipi9cIK6UE2vg9hzrnydJDnc3V2J2MrI2Mdl67UGbEafOxYU0/s320/Screenshot%202023-03-03%202.19.54%20PM.png",
+            "imgLocation": " Aruba",
+            "description": "Izzy and Ariana and I",
+            "date": "Summer of 2022" 
         },
         {
-             "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLxWQGhco2DaMqZFnV4M9XLs47rUMlb7MUFeDc-w_mFHbtojHjcXztWm8rkL2MmpqZj0Piap4odwdVPJKD33SbiSCJiokMLnHIUQy4M1n_TSwMeLOZkZUlpphCP7fH4U_Mbo4NGzia81dE6jIci45FvJpzFsO6FUbXNj8hcBbIm8nvJnn2TBcAaLeU/s320/japan.jpg",
-            "imgLocation": "Japan",
-            "description": "Hirosaki Castle",
-            "date": "01/08/2016"
-        },
-        {
-            "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLHN4Dch_49xRBexNtIaZPKoJF8peKuLGCJskaEoHlubzK0Z0GmtRFZHvJCSraJ-JJ3ia-I8rxoaVATVXeKVRLZVnsu5WN0jsLBX847dEXzBVhPvdZC2TcJIeJ63YYiQPpSECXhA70rM0fOJK7Ch0uOSXm7sR9NmQ2XBh5PdYtEdGz9vmxWh3w0Etq/s320/korea.jpg",
-            "imgLocation": "South Korea",
-            "description": "Seoul",
-            "date": "01/09/2016"
-          
-        },
-        {
-           "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLNwCBVQZf4xEZJ5qjV-PW9FzblI9hHnCZX4JZSJ1_yy2ke-vWiKuG_np8wo1h9JiJutWXRThfZbFe3P_OZAQMABECfw3kcUe938S4st1pbMjYSAMh0vr-l461ubScoNawHdjsVtT25FHQQ8LpK91XeQ_eLrEPm0CGjrFXe1LawvZeK_C21hf-zD7U/s320/norway.jpg",
-            "imgLocation": "Norway",
-            "description": "Countryside mountains",
-            "date": "01/10/2016"
-      
+             "imgPath": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgaLNFjbwfZdB7QgRSsy7UJKnXC9pPLE628GHnSvul-fZoHNSJ9E5hgYzgec9rvSR_Q8FtcSzDc64OKpmQbFJaIjXWgRLu3C4j7RZbb6a3POZOVJmDzcIg_XSpI0CUdP1g5mxXeCzOyahIWObpepJW-mtipyiUKGX_Su8TJXcawfC1viOmWjJH6M0u/s320/Screenshot%202023-03-03%202.19.08%20PM.png",
+            "imgLocation": "Montclair State University  ",
+            "description": "I commit to college!",
+            "date": "Winter of 2023"
+     
      
            
         }
